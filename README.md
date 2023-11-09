@@ -1,2 +1,4 @@
 # PhD_Codes
-Codes I used during my PhD
+
+
+A collection of codes I used throughout my PhD experience that are not necessarily part of another code repository.
